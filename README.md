@@ -1,2 +1,2 @@
 # Negociacoes
-Site para inserir e lista negociações.
+Site para inserir, excluir e lista negociações.
