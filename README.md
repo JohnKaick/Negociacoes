@@ -1,2 +1,2 @@
 # Negociacoes
-Site para inserir, excluir e lista negociações em Javascript no modelo MVC.
+Site para inserir, excluir e lista negociações utilizando Javascript no modelo MVC.
